@@ -22,6 +22,7 @@
     <div id="content">
     	<div id="gallerycontainer">
 			<div style="margin:0 auto; padding:30px 20px 20px 20px; width:820px;">	
+				<!--
 					<div class="login">
 						<div id="right">
 							<?php
@@ -39,6 +40,7 @@
 					<div id="right">
 						<h3><?php include_once("php_includes/date_time.php"); ?></h3>
 					</div>
+							-->
 		<br><br><br>
 		<h1>TERMINALS</h1><br>
 		<h3>Espana Terminal</h3>
